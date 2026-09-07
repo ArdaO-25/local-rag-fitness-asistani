@@ -1,0 +1,2 @@
+foundry-local-sdk-winml==1.2.4
+streamlit==1.62.0

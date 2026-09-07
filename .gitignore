@@ -1,0 +1,18 @@
+# Sanal ortam
+.venv/
+venv/
+
+# Python derleme/onbellek dosyalari
+__pycache__/
+*.pyc
+
+# ingest.py tarafindan uretilen veritabani -- "python ingest.py" ile
+# yeniden olusturulabilir, depoda tutulmasina gerek yok.
+knowledge.db
+
+# Streamlit yerel ayarlari (varsa)
+.streamlit/
+
+# Editor/IDE dosyalari
+.vscode/
+.idea/
