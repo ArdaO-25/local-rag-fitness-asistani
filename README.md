@@ -110,7 +110,6 @@ Tarayıcıda otomatik olarak `http://localhost:8501` açılır.
 | `requirements.txt` | Python bağımlılıkları. |
 | `kontrol.py` | Yardımcı araç: `knowledge.db`'deki tüm parçaları (id, kaynak, tam metin) sırayla ekrana yazdırır — veri kontrolü için. |
 | `hello.py`, `models.py` | Geliştirme sürecinin başındaki keşif betikleri: Foundry Local kurulumunu doğrulayan minimal bir "Hello Model" testi (`hello.py`) ve kataloğa kayıtlı tüm modelleri listeleyen bir araç (`models.py`). Uygulamanın bir parçası değiller, öğrenme sürecinin kanıtı olarak bırakıldı. |
-| `app_yedek.py` | `app.py`'nin, `rag.py`'ye bölünmeden önceki tek-dosyalı ilk hali — referans/yedek olarak saklanıyor. |
 | `TEST_SONUCLARI.md` | Fonksiyonel test kayıtları ve geliştirme sürecinde bulunup düzeltilen hatalar. |
 
 ## Tasarım Kararları ve Öne Çıkan Özellikler
