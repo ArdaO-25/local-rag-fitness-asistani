@@ -49,7 +49,7 @@ projesidir.
          ▲
          │
     ┌─────────┐
-    │ docs/*.md│   Kaynak belgeler (5 dosya, hareket bilgileri)
+    │docs/*.md│   Kaynak belgeler (5 dosya, hareket bilgileri)
     └─────────┘
 ```
 
